@@ -1,6 +1,8 @@
 
 # Microgrid Energy Management Simulation
 
+This project is a recreation of a previous group research effort in microgrid energy management, combining AI models for forecasting and decision-making with a simulated communication system between microgrids. Originally conducted as part of "Using Embedded Systems and Artificial Intelligence for Power Control and Forecasting in Multiple Microgrid Networks", this version is designed to preserve and share the methodology while improving clarity, structure, and accessibility. While not identical to the original, some parts have been altered and extended for personal curiosity and further exploration, building upon what my team initially produced.
+
 ## Overview
 This project simulates microgrid energy management using artificial intelligence and embedded system concepts. It integrates forecasting models, classifiers for power management actions, and a communication system between microgrids to optimize energy usage. The system also calculates energy loss and efficiency metrics, providing visual insights into its performance..
 
